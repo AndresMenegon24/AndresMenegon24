@@ -61,13 +61,40 @@ const andres = {
 <div align="center">
 
 ### **💻 Lenguajes & Frameworks**
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,express,html,css" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### **🗄️ Bases de Datos & Herramientas**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,vscode,postman" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ### **🏥 Especialización Médica**
-<img src="https://img.shields.io/badge/GeneXus-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOEwxMiAxNEwyIDhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDhWMTZMMTIgMjJWMTRMMiA4WiIgZmlsbD0id2hpdGUiLz4KPHA+CjwvcGF0aD4KPC9zdmc+&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GeneXus-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOEwxMiAxNEwyIDhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDhWMTZMMTIgMjJWMTRMMiA4WiIgZmlsbD0id2hpdGUiLz4KPHA+CjwvcGF0aD4KPC9zdmc+&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medical_Systems-4CAF50?style=for-the-badge&logo=cross&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Healthcare_IT-2196F3?style=for-the-badge&logo=hospital&logoColor=white"/>
+</p>
+
+### **🚀 Metodologías & Soft Skills**
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum_Master-FF9800?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-9C27B0?style=for-the-badge&logo=agile&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF5722?style=for-the-badge&logo=security&logoColor=white"/>
+</p>4WiIgZmlsbD0id2hpdGUiLz4KPHA+CjwvcGF0aD4KPC9zdmc+&logoColor=white"/>
 <img src="https://img.shields.io/badge/Medical_Systems-4CAF50?style=for-the-badge&logo=cross&logoColor=white"/>
 <img src="https://img.shields.io/badge/Healthcare_IT-2196F3?style=for-the-badge&logo=hospital&logoColor=white"/>
 
