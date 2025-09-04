@@ -30,27 +30,33 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="👨‍💻" width="35" /> **Sobre Mí**
 
+<div align="center">
+
+### **🧑‍💻 Full Stack Developer & Software Engineer**
+
+**📍 Mendoza, Argentina 🇦🇷** | **💼 9+ años en IT** | **🏥 Especialista en Sistemas Médicos**
+
+---
+
+🔹 **Desarrollador Backend** especializado en **JavaScript/TypeScript**, **Node.js** y **GeneXus**  
+🔹 **Experto en Frontend** con **React** y tecnologías web modernas  
+🔹 **Scrum Master** con experiencia en metodologías ágiles  
+🔹 **Apasionado por la ciberseguridad** y las buenas prácticas de desarrollo  
+🔹 **9 años de experiencia** en infraestructura IT y soporte técnico  
+
+</div>
+
 ```javascript
-const andres = {
-    pronouns: "he/him",
-    location: "Mendoza, Argentina 🇦🇷",
-    role: "Full Stack Developer & Software Engineer",
-    experience: "9+ años en IT",
-    currentFocus: "Backend Development & Medical Systems",
-    
-    dailyRoutine: {
-        morning: ["☕ Café", "📚 Documentación", "💻 Código"],
-        afternoon: ["🔧 Debug", "🚀 Deploy", "📈 Optimización"],
-        evening: ["🎯 Learning", "🌟 Side Projects", "🎮 Gaming"]
-    },
-    
-    motto: "Código limpio, soluciones elegantes ✨"
+const dailyRoutine = {
+    morning: ["☕ Café", "📚 Documentación", "💻 Código"],
+    afternoon: ["🔧 Debug", "🚀 Deploy", "📈 Optimización"],
+    evening: ["🎯 Learning", "🌟 Side Projects", "🎮 Gaming"]
 };
 ```
 
 <div align="center">
 
-> *"La mejor forma de predecir el futuro es creándolo línea por línea"* 💡
+> *"Código limpio, soluciones elegantes - La mejor forma de predecir el futuro es creándolo línea por línea"* ✨
 
 </div>
 
