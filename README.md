@@ -94,14 +94,7 @@ const andres = {
   <img src="https://img.shields.io/badge/Scrum_Master-FF9800?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-9C27B0?style=for-the-badge&logo=agile&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-FF5722?style=for-the-badge&logo=security&logoColor=white"/>
-</p>4WiIgZmlsbD0id2hpdGUiLz4KPHA+CjwvcGF0aD4KPC9zdmc+&logoColor=white"/>
-<img src="https://img.shields.io/badge/Medical_Systems-4CAF50?style=for-the-badge&logo=cross&logoColor=white"/>
-<img src="https://img.shields.io/badge/Healthcare_IT-2196F3?style=for-the-badge&logo=hospital&logoColor=white"/>
-
-### **🚀 Metodologías & Soft Skills**
-<img src="https://img.shields.io/badge/Scrum_Master-FF9800?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile-9C27B0?style=for-the-badge&logo=agile&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-FF5722?style=for-the-badge&logo=security&logoColor=white"/>
+</p>
 
 </div>
 
