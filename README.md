@@ -46,13 +46,7 @@
 
 </div>
 
-```javascript
-const dailyRoutine = {
-    morning: ["☕ Café", "📚 Documentación", "💻 Código"],
-    afternoon: ["🔧 Debug", "🚀 Deploy", "📈 Optimización"],
-    evening: ["🎯 Learning", "🌟 Side Projects", "🎮 Gaming"]
-};
-```
+
 
 <div align="center">
 
@@ -141,24 +135,6 @@ const dailyRoutine = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📊" width="35" /> **Estadísticas & Logros**
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndresMenegon24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF" alt="Estadísticas de GitHub"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresMenegon24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-<!-- Languages -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMenegon24&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" alt="Top Languages"/>
-
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndresMenegon24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-
-<!-- Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AndresMenegon24&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
