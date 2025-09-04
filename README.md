@@ -21,7 +21,7 @@
   <a href="mailto:menegon.andres@icloud.com">
     <img src="https://img.shields.io/badge/📧_Email-000000?style=for-the-badge&logo=icloud&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=andres-menegon&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AndresMenegon24&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
 </div>
@@ -84,9 +84,9 @@ const andres = {
 
 ### **🏥 Especialización Médica**
 <p align="center">
-  <img src="https://img.shields.io/badge/GeneXus-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOEwxMiAxNEwyIDhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDhWMTZMMTIgMjJWMTRMMiA4WiIgZmlsbD0id2hpdGUiLz4KPHA+CjwvcGF0aD4KPC9zdmc+&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Medical_Systems-4CAF50?style=for-the-badge&logo=cross&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Healthcare_IT-2196F3?style=for-the-badge&logo=hospital&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeneXus-FF6B35?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medical_Systems-4CAF50?style=for-the-badge&logo=medrt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Healthcare_IT-2196F3?style=for-the-badge&logo=stethoscope&logoColor=white"/>
 </p>
 
 ### **🚀 Metodologías & Soft Skills**
@@ -140,17 +140,17 @@ const andres = {
 <div align="center">
 
 <!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=andres-menegon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF" alt="Estadísticas de GitHub"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andres-menegon&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndresMenegon24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF" alt="Estadísticas de GitHub"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresMenegon24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 <!-- Languages -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-menegon&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMenegon24&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" alt="Top Languages"/>
 
 <!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andres-menegon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndresMenegon24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 
 <!-- Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=andres-menegon&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AndresMenegon24&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -201,7 +201,7 @@ const andres = {
 <a href="mailto:menegon.andres@icloud.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white"/>
 </a>
-<a href="tel:+542613629762">
+<a href="https://wa.me/5492613629762">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
